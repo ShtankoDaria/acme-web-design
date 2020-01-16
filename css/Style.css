@@ -33,6 +33,7 @@ ul{
     margin-bottom:10px;
   }
 
+
 /*Header*/
 header{
     background: #35424a;
@@ -153,7 +154,7 @@ aside#sidebar{
     float:left;
     width:65%;
   }
-  
+
 footer{
     padding: 20px;
     margin-top: 20px;
